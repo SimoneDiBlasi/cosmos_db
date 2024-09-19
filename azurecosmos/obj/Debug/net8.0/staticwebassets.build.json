@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V6jdmpRLDTrDewtluQUVzedM3WZzhenGeOogR/2A/K0=",
+  "Source": "azurecosmos",
+  "BasePath": "_content/azurecosmos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
