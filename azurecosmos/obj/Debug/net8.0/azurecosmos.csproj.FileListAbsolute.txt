@@ -60,6 +60,12 @@ C:\Users\SimoneBasi\source\repos\azurecosmos\azurecosmos\obj\Debug\net8.0\refint
 C:\Users\SimoneBasi\source\repos\azurecosmos\azurecosmos\obj\Debug\net8.0\azurecosmos.pdb
 C:\Users\SimoneBasi\source\repos\azurecosmos\azurecosmos\obj\Debug\net8.0\azurecosmos.genruntimeconfig.cache
 C:\Users\SimoneBasi\source\repos\azurecosmos\azurecosmos\obj\Debug\net8.0\ref\azurecosmos.dll
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Handler.deps.json
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Handler.runtimeconfig.json
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Core.deps.json
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Core.runtimeconfig.json
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Core.exe
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Handler.exe
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\Cosmos.CRTCompat.dll
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\msvcp140.dll
@@ -101,6 +107,10 @@ C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\runtimes\u
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Core.dll
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Handler.dll
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Handler.pdb
+C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\bin\Debug\net8.0\azurecosmos.Core.pdb
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\obj\Debug\net8.0\azurecosmos.csproj.AssemblyReference.cache
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\obj\Debug\net8.0\azurecosmos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\SimoneBasi\SimoneRepo\cosmos_db\azurecosmos\obj\Debug\net8.0\azurecosmos.AssemblyInfoInputs.cache

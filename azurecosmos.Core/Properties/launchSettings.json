@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "azurecosmos.Core": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

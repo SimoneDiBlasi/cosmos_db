@@ -1,21 +1,21 @@
 [
   {
-    "ContainingType": "azurecosmos.Controllers.WeatherForecastController",
-    "Method": "CreateItem",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "azurecosmos.Controllers.CosmosDBController",
+    "Method": "CreatePost",
+    "RelativePath": "api",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "item",
-        "Type": "item.Item",
+        "Name": "post",
+        "Type": "azurecosmos.Core.Models.Post",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "item.Item",
+        "Type": "azurecosmos.Core.Models.Post",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -26,22 +26,22 @@
     ]
   },
   {
-    "ContainingType": "azurecosmos.Controllers.WeatherForecastController",
-    "Method": "GetItems",
-    "RelativePath": "WeatherForecast/{tenantId}",
+    "ContainingType": "azurecosmos.Controllers.CosmosDBController",
+    "Method": "GetPosts",
+    "RelativePath": "api/{partitionKey}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tenantId",
+        "Name": "partitionKey",
         "Type": "System.String",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[item.Item, azurecosmos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[azurecosmos.Core.Models.Post, azurecosmos.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -52,15 +52,15 @@
     ]
   },
   {
-    "ContainingType": "azurecosmos.Controllers.WeatherForecastController",
-    "Method": "GetItem",
-    "RelativePath": "WeatherForecast/{tenantId}/{id}",
+    "ContainingType": "azurecosmos.Controllers.CosmosDBController",
+    "Method": "GetPost",
+    "RelativePath": "api/{partitionKey}/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tenantId",
+        "Name": "partitionKey",
         "Type": "System.String",
         "IsRequired": true
       },
@@ -72,7 +72,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "item.Item",
+        "Type": "azurecosmos.Core.Models.Post",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -83,41 +83,41 @@
     ]
   },
   {
-    "ContainingType": "azurecosmos.Controllers.WeatherForecastController",
-    "Method": "UpdateItem",
-    "RelativePath": "WeatherForecast/{tenantId}/{id}",
+    "ContainingType": "azurecosmos.Controllers.CosmosDBController",
+    "Method": "UpdatePost",
+    "RelativePath": "api/{partitionKey}/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tenantId",
+        "Name": "partitionKey",
         "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "post",
+        "Type": "azurecosmos.Core.Models.Post",
         "IsRequired": true
       },
       {
         "Name": "id",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "item",
-        "Type": "item.Item",
+        "Type": "",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "azurecosmos.Controllers.WeatherForecastController",
-    "Method": "DeleteItem",
-    "RelativePath": "WeatherForecast/{tenantId}/{id}",
+    "ContainingType": "azurecosmos.Controllers.CosmosDBController",
+    "Method": "DeletePost",
+    "RelativePath": "api/{partitionKey}/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tenantId",
+        "Name": "partitionKey",
         "Type": "System.String",
         "IsRequired": true
       },

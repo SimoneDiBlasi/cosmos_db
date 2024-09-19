@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azurecosmos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27699afec935ea315b79a26d09b2b9fd9a65c49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99938f4ebcdecb07bcade8d35eadf715ea23ebc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("azurecosmos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azurecosmos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

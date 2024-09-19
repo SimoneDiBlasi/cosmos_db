@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.handler\\handlers\\posthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|solutionrelative:azurecosmos.handler\\handlers\\posthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos\\controllers\\cosmosdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|solutionrelative:azurecosmos\\controllers\\cosmosdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.core\\interfaces\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|solutionrelative:azurecosmos.core\\interfaces\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|solutionrelative:azurecosmos.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.handler\\azurecosmos.handler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|solutionrelative:azurecosmos.handler\\azurecosmos.handler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043E1318-83BC-44FD-AD06-3738B7F4B3A7}|Solution Items{043E1318-83BC-44FD-AD06-3738B7F4B3A7}|C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{043E1318-83BC-44FD-AD06-3738B7F4B3A7}|Solution Items{043E1318-83BC-44FD-AD06-3738B7F4B3A7}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|solutionrelative:azurecosmos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|solutionrelative:azurecosmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos\\azurecosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29327901-232D-4BD9-9E6C-E881F6B6CFD4}|azurecosmos\\azurecosmos.csproj|solutionrelative:azurecosmos\\azurecosmos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.handler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4708ACF3-AC13-42C8-8243-D57AA61F55C7}|azurecosmos.Handler\\azurecosmos.Handler.csproj|solutionrelative:azurecosmos.handler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|c:\\users\\simonebasi\\simonerepo\\cosmos_db\\azurecosmos.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}|azurecosmos.Core\\azurecosmos.Core.csproj|solutionrelative:azurecosmos.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\Handlers\\PostHandler.cs",
+              "RelativeDocumentMoniker": "azurecosmos.Handler\\Handlers\\PostHandler.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\Handlers\\PostHandler.cs",
+              "RelativeToolTip": "azurecosmos.Handler\\Handlers\\PostHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:56:47.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Interfaces\\IPost.cs",
+              "RelativeDocumentMoniker": "azurecosmos.Core\\Interfaces\\IPost.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Interfaces\\IPost.cs",
+              "RelativeToolTip": "azurecosmos.Core\\Interfaces\\IPost.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:54:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\Program.cs",
+              "RelativeDocumentMoniker": "azurecosmos\\Program.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\Program.cs",
+              "RelativeToolTip": "azurecosmos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:50:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T07:49:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "azurecosmos.Core\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Models\\Post.cs",
+              "RelativeToolTip": "azurecosmos.Core\\Models\\Post.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:46:29.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosmosDBController.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\Controllers\\CosmosDBController.cs",
+              "RelativeDocumentMoniker": "azurecosmos\\Controllers\\CosmosDBController.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\Controllers\\CosmosDBController.cs",
+              "RelativeToolTip": "azurecosmos\\Controllers\\CosmosDBController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:30:45.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\appsettings.json",
+              "RelativeDocumentMoniker": "azurecosmos\\appsettings.json",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\appsettings.json",
+              "RelativeToolTip": "azurecosmos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T07:29:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "azurecosmos.csproj",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\azurecosmos.csproj",
+              "RelativeDocumentMoniker": "azurecosmos\\azurecosmos.csproj",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos\\azurecosmos.csproj",
+              "RelativeToolTip": "azurecosmos\\azurecosmos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:29:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "azurecosmos.Handler.csproj",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\azurecosmos.Handler.csproj",
+              "RelativeDocumentMoniker": "azurecosmos.Handler\\azurecosmos.Handler.csproj",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\azurecosmos.Handler.csproj",
+              "RelativeToolTip": "azurecosmos.Handler\\azurecosmos.Handler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:29:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Program.cs",
+              "RelativeDocumentMoniker": "azurecosmos.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Core\\Program.cs",
+              "RelativeToolTip": "azurecosmos.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:29:15.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\Program.cs",
+              "RelativeDocumentMoniker": "azurecosmos.Handler\\Program.cs",
+              "ToolTip": "C:\\Users\\SimoneBasi\\SimoneRepo\\cosmos_db\\azurecosmos.Handler\\Program.cs",
+              "RelativeToolTip": "azurecosmos.Handler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:28:38.112Z"
             }
           ]
         }

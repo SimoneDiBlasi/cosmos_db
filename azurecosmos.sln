@@ -3,7 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurecosmos", "azurecosmos\azurecosmos.csproj", "{29327901-232D-4BD9-9E6C-E881F6B6CFD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azurecosmos", "azurecosmos\azurecosmos.csproj", "{29327901-232D-4BD9-9E6C-E881F6B6CFD4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E} = {2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}
+		{4708ACF3-AC13-42C8-8243-D57AA61F55C7} = {4708ACF3-AC13-42C8-8243-D57AA61F55C7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurecosmos.Handler", "azurecosmos.Handler\azurecosmos.Handler.csproj", "{4708ACF3-AC13-42C8-8243-D57AA61F55C7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E} = {2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurecosmos.Core", "azurecosmos.Core\azurecosmos.Core.csproj", "{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{043E1318-83BC-44FD-AD06-3738B7F4B3A7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +31,14 @@ Global
 		{29327901-232D-4BD9-9E6C-E881F6B6CFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29327901-232D-4BD9-9E6C-E881F6B6CFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29327901-232D-4BD9-9E6C-E881F6B6CFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4708ACF3-AC13-42C8-8243-D57AA61F55C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4708ACF3-AC13-42C8-8243-D57AA61F55C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4708ACF3-AC13-42C8-8243-D57AA61F55C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4708ACF3-AC13-42C8-8243-D57AA61F55C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0CB2B4-6D11-4AD9-9A00-26989C81D78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
